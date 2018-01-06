@@ -10,13 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/zhw2590582/jest-quick-view.git"
   },
-  "keywords": [
-    "jest",
-    "api"
-  ],
-  "authors": [
-    "Harvey Zack <laozhaochaguan@hotmail.com>"
-  ],
+  "keywords": ["jest", "api"],
+  "authors": ["Harvey Zack <laozhaochaguan@hotmail.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhw2590582/jest-quick-view/issues"
