@@ -1,0 +1,27 @@
+{
+  "name": "jest-quick-view",
+  "version": "1.0.0",
+  "description": "Jest 文档快速预览",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhw2590582/jest-quick-view.git"
+  },
+  "keywords": ["jest", "api"],
+  "authors": ["Harvey Zack <laozhaochaguan@hotmail.com>"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhw2590582/jest-quick-view/issues"
+  },
+  "homepage": "https://github.com/zhw2590582/jest-quick-view#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.0.4",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
