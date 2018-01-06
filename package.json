@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/zhw2590582/jest-quick-view.git"
   },
-  "keywords": ["jest", "api"],
-  "authors": ["Harvey Zack <laozhaochaguan@hotmail.com>"],
+  "keywords": [
+    "jest",
+    "api"
+  ],
+  "authors": [
+    "Harvey Zack <laozhaochaguan@hotmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhw2590582/jest-quick-view/issues"
@@ -22,6 +27,7 @@
     "babel-jest": "^22.0.4",
     "babel-preset-env": "^1.6.1",
     "jest": "^22.0.4",
+    "jest-get-type": "^22.0.3",
     "regenerator-runtime": "^0.11.1"
   }
 }
